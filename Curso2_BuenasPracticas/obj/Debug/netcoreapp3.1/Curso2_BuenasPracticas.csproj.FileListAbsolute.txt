@@ -1,0 +1,11 @@
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\bin\Debug\netcoreapp3.1\Curso2_BuenasPracticas.exe
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\bin\Debug\netcoreapp3.1\Curso2_BuenasPracticas.deps.json
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\bin\Debug\netcoreapp3.1\Curso2_BuenasPracticas.runtimeconfig.json
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\bin\Debug\netcoreapp3.1\Curso2_BuenasPracticas.runtimeconfig.dev.json
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\bin\Debug\netcoreapp3.1\Curso2_BuenasPracticas.dll
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\bin\Debug\netcoreapp3.1\Curso2_BuenasPracticas.pdb
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\obj\Debug\netcoreapp3.1\Curso2_BuenasPracticas.AssemblyInfoInputs.cache
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\obj\Debug\netcoreapp3.1\Curso2_BuenasPracticas.AssemblyInfo.cs
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\obj\Debug\netcoreapp3.1\Curso2_BuenasPracticas.dll
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\obj\Debug\netcoreapp3.1\Curso2_BuenasPracticas.pdb
+C:\Users\melvyn.pena\source\repos\Curso2Ejercicio1_BuenasPracticas\Curso2_BuenasPracticas\obj\Debug\netcoreapp3.1\Curso2_BuenasPracticas.csprojAssemblyReference.cache

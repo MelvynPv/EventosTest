@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\melvyn.pena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\melvyn.pena\\.nuget\\packages"
+    ]
+  }
+}

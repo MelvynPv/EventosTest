@@ -1,0 +1,7 @@
+Navidad, 25/12/2019
+AmorYAmistad, 14/02/2020
+FinCurso, 07/02/2020 18:00:00
+FinCursoII, 06/02/2020 18:00:00
+InicioCursoII, 06/02/2020 08:00:00
+DescansoCursoII, 06/02/2020 16:20:00
+FinCursoI, 05/02/2020
